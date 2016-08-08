@@ -22,3 +22,10 @@ Write a program to compute the final price of the sale for a customer's shopping
   * _onlineStoreExample.java_ : 
     * Minimum viable product written in Java
     * Contains the procedural version of the online transaction
+
+## Assumptions:
+
+* Assume that there is an unlimited inventory of digital media (CDs, DVDs, BLU-RAYs)
+* Propose that each music CD has a base price per unit of $9.99
+* Propose that each movie (DVD format) has a base price per unit of $12.99
+* Propose that each movie (Blu-ray format) has a base price per unit of $15.99
