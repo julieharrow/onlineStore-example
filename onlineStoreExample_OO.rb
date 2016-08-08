@@ -1,8 +1,3 @@
-# Assume that there is an unlimited inventory of digital media.
-# Propose that each music CD has a base price_per_unit of $9.99
-# Propose that each movie DVD has a base price_per_unit of $12.99
-# Propose that each movie Blu-ray has a base price_per_unit of $15.99
-
 class Store
   attr_accessor :shopping_cart
   def initialize(shopping_cart)

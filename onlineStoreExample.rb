@@ -1,8 +1,3 @@
-# Assume that there is an unlimited inventory of digital media.
-# Propose that each music CD has a base price_per_unit of $9.99
-# Propose that each movie DVD has a base price_per_unit of $12.99
-# Propose that each movie Blu-ray has a base price_per_unit of $15.99
-
 store_options = ["CD", "DVD", "BLU-RAY"]
 cost_per_unit = {"CD"=>9.99, "DVD"=>12.99, "BLU-RAY"=>15.99}
 discount_rates = {"CD"=>0.5, "DVD"=>0.25, "BLU-RAY"=>0.15}

@@ -1,8 +1,3 @@
-// Assume that there is an unlimited inventory of digital media.
-// Propose that each music CD has a base price_per_unit of $9.99
-// Propose that each movie DVD has a base price_per_unit of $12.99
-// Propose that each movie Blu-ray has a base price_per_unit of $15.99
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.ArrayList;
@@ -57,7 +52,7 @@ public class ZiftMedia {
 
 		// calculate final total and print to screen
 		Double finalOutput = Math.round((totalCost - totalSavings) * 100.0) / 100.0;
-    System.out.print("Your total today is $" + finalOutput + ".");
+		System.out.print("Your total today is $" + finalOutput + ".");
 
 	}
 
