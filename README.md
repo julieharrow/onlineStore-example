@@ -1,13 +1,13 @@
 # onlineStore-example
 
-## Directory contains 3 versions of code to complete the following transaction:  
+## Transaction Description: 
 
   An online store sells digital media - music cds and movies (dvd and blu-ray) and today they have a sale for Independence Day. 
     * The cds have a discount of 50%. 
     * The dvds have a discount of 25%. *If five or more DVDs are purchased the discount is 30%. 
     * The blu-ray have a discount of 15%. 
 
-  Write a program to compute the final price of the sale for a customer's shopping cart. The customer may have purchased a combination of music cds and movies.
+  Write a program to compute the final price of the sale for a customer's shopping cart. The customer may have purchased a combination of music cds and movies. All versions are run through the command line.
 
 ## Versions:
 
