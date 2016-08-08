@@ -6,7 +6,6 @@ total_savings = 0
 
 puts "Welcome! Today we are having an Independence Day Sale!\nAll CDs are 50% off!  All DVDs are 25% off! All BLU-RAYs are 15% off!\nPLUS...Buy 5 or more DVDs and they are 30% off!\n\n"
 
-
 store_options.each do |media|
   puts "How many #{media}'s would you like to buy today?"
   quantity = gets.chomp.to_i  # Assumes 0 if given non-number entry
