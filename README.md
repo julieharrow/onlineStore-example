@@ -2,23 +2,23 @@
 
 ## Directory contains 3 versions of code to complete the following transaction:  
 
-  ###### An online store sells digital media - music cds and movies (dvd and blu-ray) and today they have a sale for Independence Day. 
+  An online store sells digital media - music cds and movies (dvd and blu-ray) and today they have a sale for Independence Day. 
     * The cds have a discount of 50%. 
     * The dvds have a discount of 25%. *If five or more DVDs are purchased the discount is 30%. 
     * The blu-ray have a discount of 15%. 
 
-  ###### Write a program to compute the final price of the sale for a customer's shopping cart. The customer may have purchased a combination of music cds and movies.
+  Write a program to compute the final price of the sale for a customer's shopping cart. The customer may have purchased a combination of music cds and movies.
 
 ## Versions:
 
-  * _'onlineStoreExample.rb'_ : 
+  * _onlineStoreExample.rb_ : 
     * Minimum viable product written in Ruby
     * Contains the procedural version of the online transaction
     
-  * _'onlineStoreExample_OO.rb'_ : 
+  * _onlineStoreExample_OO.rb_ : 
     * Object oriented version of the online transaction written in Ruby
     * Includes a more guided user experience; includes validation of user input, and is more adaptable for future real-world applications
     
-  * _'onlineStoreExample.java'_ : 
+  * _onlineStoreExample.java_ : 
     * Minimum viable product written in Java
     * Contains the procedural version of the online transaction
